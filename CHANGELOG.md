@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.1] - 2026-11-25
+
+### Changed
+
+* Bump java-dogstatsd-client to 4.4.6.
+* POM SCM and project URLs now point at github.com/savyalabs/dogstatsd.
+
 ## [0.6.0] - 2026-08-27
 
 ### Added
